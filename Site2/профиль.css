@@ -1,0 +1,151 @@
+ .u-section-1 {
+  min-height: 563px;
+}
+
+.u-section-1 .u-group-1 {
+  width: calc(((100% - 1140px) / 2) + 1027px);
+  min-height: 493px;
+  height: auto;
+  margin: 0 auto 60px 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 30px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 152px;
+  height: 152px;
+  margin: 27px auto 0 25px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -144px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  width: 476px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 25px 0 0 335px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 25px 0 0 335px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin: -17px auto 0 16px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 4px 0 0 335px;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 25px 0 0 335px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 940px) / 2) + 940px);
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 248px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 248px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 248px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 248px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 720px) / 2) + 720px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 28px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 540px) / 2) + 540px);
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1rem;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1rem;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    font-size: 1rem;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 340px) / 2) + 340px);
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
