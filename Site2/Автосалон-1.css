@@ -317,6 +317,4 @@
     width: 340px;
     margin-right: calc(((100% - 340px) / 2));
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 500px;
 }
