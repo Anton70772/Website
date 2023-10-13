@@ -1,0 +1,115 @@
+.screen {
+  background-color: #171717;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen .div {
+  background-color: #171717;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+
+.screen .text-wrapper {
+  top: 90px;
+  left: 808px;
+  font-weight: 400;
+  font-size: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle {
+  top: 299px;
+  position: absolute;
+  width: 567px;
+  height: 88px;
+  left: 676px;
+  background-color: #333333;
+  border-radius: 20px;
+}
+
+.screen .text-wrapper-2 {
+  top: 259px;
+  left: 698px;
+  font-weight: 400;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-3 {
+  position: absolute;
+  top: 402px;
+  left: 698px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-4 {
+  top: 545px;
+  left: 698px;
+  font-weight: 400;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-2 {
+  top: 442px;
+  position: absolute;
+  width: 567px;
+  height: 88px;
+  left: 676px;
+  background-color: #333333;
+  border-radius: 20px;
+}
+
+.screen .rectangle-3 {
+  top: 585px;
+  position: absolute;
+  width: 567px;
+  height: 88px;
+  left: 676px;
+  background-color: #333333;
+  border-radius: 20px;
+}
+
+.screen .overlap-group {
+  position: absolute;
+  width: 567px;
+  height: 88px;
+  top: 803px;
+  left: 676px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 12px #ff9442;
+  background: linear-gradient(180deg, rgb(255, 120.38, 62.69) 0%, rgb(255, 180.63, 69.06) 100%);
+}
+
+.screen .text-wrapper-5 {
+  top: 23px;
+  left: 147px;
+  font-weight: 700;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
